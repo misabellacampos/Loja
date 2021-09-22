@@ -1,7 +1,7 @@
 #loja de tenis
 
 
-/*using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
-namespace Loja_de_tênis_2*/
+namespace Loja_de_tênis_2
 
 {
     public partial class Form1 : Form
